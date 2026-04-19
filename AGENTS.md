@@ -1,4 +1,4 @@
-# everywhere
+# everywhere-md
 
 A private GitHub repo of plain Markdown for personal task management — GTD-style, but the agent handles the clarify and organize steps. You capture; any coding agent reads this file and runs the system. Git is your undo.
 
